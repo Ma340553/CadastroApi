@@ -1,0 +1,6 @@
+@CADASTROPESSOAAPI_HostAddress = http://localhost:5044
+
+GET {{CADASTROPESSOAAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
